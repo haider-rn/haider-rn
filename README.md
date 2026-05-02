@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Haider Ali 👋 (haider-rn)
+**React Native Developer | Appium & Jest Specialist | IT Student at UOG**
 
-<!--
-**haider-rn/haider-rn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance, cross-platform mobile applications and ensure they are rock-solid through automated testing. I’m passionate about clean architecture, state management, and seamless user experiences.
 
-Here are some ideas to get you started:
+### 📱 My Production App
+**[MyUOG - University Companion](https://play.google.com/store/apps/details?id=com.myuoggpa)**
+*   Calculates GPA/CGPA with support for the 2025 Grading Policy.
+*   Features an offline AI Chatbot (UA Assistant) for campus navigation.
+*   Built with React Native, Redux, and MMKV for high-performance storage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks:** React Native (iOS & Android)
+- **State & Storage:** Redux, MMKV, AsyncStorage
+- **Testing:** Appium (Mobile Automation), Jest (Unit Testing), User Testing
+- **Workflow:** Git Flow, Version Control, CI/CD
+
+### 📊 GitHub Stats
+![Haider's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+### 📫 Connect with me:
+[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Play Store](https://play.google.com/store/apps/details?id=com.myuoggpa)
