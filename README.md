@@ -1,24 +1,78 @@
-# Hi, I'm Haider Ali 👋 (haider-rn)
-**React Native Developer | Appium & Jest Specialist | IT Student at UOG**
+![header](https://capsule-render.vercel.app/api?type=waving\&height=300\&text=Haider%20Ali%20|%20React%20Native%20Developer\&fontSize=50)
 
-I build high-performance, cross-platform mobile applications and ensure they are rock-solid through automated testing. I’m passionate about clean architecture, state management, and seamless user experiences.
+# Hi 👋, I'm Haider Ali
 
-### 📱 My Production App
-**[MyUOG - University Companion](https://play.google.com/store/apps/details?id=com.myuoggpa)**
-*   Calculates GPA/CGPA with support for the 2025 Grading Policy.
-*   Features an offline AI Chatbot (UA Assistant) for campus navigation.
-*   Built with React Native, Redux, and MMKV for high-performance storage.
+### React Native Developer | QA Automation Engineer | Indie App Builder
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Frameworks:** React Native (iOS & Android)
-- **State & Storage:** Redux, MMKV, AsyncStorage
-- **Testing:** Appium (Mobile Automation), Jest (Unit Testing), User Testing
-- **Workflow:** Git Flow, Version Control, CI/CD
+🚀 I build scalable mobile apps, automate testing workflows, and ship production-ready products.
 
-### 📊 GitHub Stats
-![Haider's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+---
 
-### 📫 Connect with me:
-[LinkedIn](YOUR_LINKEDIN_URL_HERE) | [Play Store](https://play.google.com/store/apps/details?id=com.myuoggpa)
+## 💫 About Me
+
+* 📱 React Native Developer (iOS + Android)
+* 🧪 Appium & Jest Automation Tester
+* 🎓 BS Information Technology — University of Gujrat
+* 🚀 Creator of **MyUOG** app on Google Play Store
+* ✍️ Technical writer on Medium
+* 🌍 Based in Punjab, Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile Development:**
+React Native • Redux • JavaScript • TypeScript • MMKV • AsyncStorage
+
+**Testing:**
+Appium • Jest • Manual Testing • Automated QA
+
+**Tools:**
+Git • GitHub • Git Flow • Play Console
+
+---
+
+## 📲 Featured App
+
+### MyUOG — Student Companion App
+
+* GPA/CGPA Calculator
+* Offline AI Assistant
+* Live University Updates
+* Light/Dark Themes
+* Privacy Focused
+
+🔗 Google Play: [https://play.google.com/store/apps/details?id=com.myuoggpa&hl=en](https://play.google.com/store/apps/details?id=com.myuoggpa&hl=en)
+
+---
+
+## ✍️ Medium Articles
+
+🔗 [https://medium.com/@haider-rn](https://medium.com/@haider-rn)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 👁️ Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: YOUR_LINKEDIN
+* Medium: [https://medium.com/@haider-rn](https://medium.com/@haider-rn)
+* Play Store: MyUOG App
+
+---
+
+### 💡 Personal Brand
+
+**Building, testing, and launching mobile apps that solve real problems.**
