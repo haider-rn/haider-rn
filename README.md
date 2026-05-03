@@ -39,3 +39,25 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=haider-rn&theme=tokyonight"/>
 </p>
+
+---
+
+## 👁️ Visitors
+
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@haider-rn)
+
+---
+
+## 🔥 Currently Working On
+
+- 🚀 Improving MyUOG App
+- 🤖 Building AI chatbot
+- 📱 React Native UI projects
