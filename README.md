@@ -26,4 +26,6 @@
 
 ## 📲 MyUOG App
 
-![App Screenshot](https://play-lh.googleusercontent.com/-kxhx5rwrNPcVtaKxbBu4WblPevw6TCorG-X1twTgWXLiLfsrPNfGb4czqd2_3gIsU_fg8mV89Yn3UzCw9Ei_ZI=w480-h960-rw)
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/-kxhx5rwrNPcVtaKxbBu4WblPevw6TCorG-X1twTgWXLiLfsrPNfGb4czqd2_3gIsU_fg8mV89Yn3UzCw9Ei_ZI=w480-h960-rw" width="220"/>
+</p>
