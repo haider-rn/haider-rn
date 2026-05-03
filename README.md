@@ -21,3 +21,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium)
+
+---
+
+## 📲 MyUOG App
+
+![App Screenshot](https://play-lh.googleusercontent.com/-kxhx5rwrNPcVtaKxbBu4WblPevw6TCorG-X1twTgWXLiLfsrPNfGb4czqd2_3gIsU_fg8mV89Yn3UzCw9Ei_ZI=w480-h960-rw)
