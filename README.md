@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Haider%20Ali&textBg=false&fontColor=202940)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Haider%20Ali&textBg=false&fontColor=FFFAF0)
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=React+Native+Developer;QA+Automation+Engineer;Indie+App+Builder)
 
