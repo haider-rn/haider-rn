@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=BFD7B5&text=Haider%20Ali&section=header&textBg=false&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&text=Haider%20Ali&textBg=false&fontColor=202940)
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=React+Native+Developer;QA+Automation+Engineer;Indie+App+Builder)
 
@@ -35,10 +35,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haider-rn&show_icons=true&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=haider-rn&theme=tokyonight"/>
