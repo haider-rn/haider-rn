@@ -42,15 +42,9 @@
 
 ---
 
-## 👁️ Visitors
-
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haider-ali-804b82258/)
 
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@haider-rn)
 
