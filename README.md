@@ -27,7 +27,7 @@
 ## 📲 MyUOG App
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/-kxhx5rwrNPcVtaKxbBu4WblPevw6TCorG-X1twTgWXLiLfsrPNfGb4czqd2_3gIsU_fg8mV89Yn3UzCw9Ei_ZI=w480-h960-rw" width="220"/>
+  <img src="https://play-lh.googleusercontent.com/kHoib5_J9n3STH9oPsD-nOnSQQvYLB_FdCVUEMKWgvcLxoQJQY1FD_axgRxZJ3zm_yAtWKc_u2DUlmuvINRdvA=w480-h960-rw" width="220"/>
 </p>
 
 [![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
