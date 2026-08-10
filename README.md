@@ -9,7 +9,7 @@
 - 📱 React Native Developer
 - 🧪 QA Automation (Appium + Jest)
 - 🎓 BS IT — University of Gujrat
-- 🚀 Creator of MyUOG App
+- 🚀 Creator of UOG & VU STUDY App
 - 🌍 Based in Pakistan
 
 ---
@@ -32,6 +32,14 @@
 
 [![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
 
+## 📲 My VU Study
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/oZO2SIXv8rrG12O97x3QlqWeGqval2yf8uhKSJ6Z1IQzNJ47jmdB7SshhYVqR6oCMFh-XNUe9rVjS8bUId8=w480-h960-rw" width="220"/>
+</p>
+
+[![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myvustudy)
+
 ---
 
 ## 📊 GitHub Stats
@@ -52,6 +60,6 @@
 
 ## 🔥 Currently Working On
 
-- 🚀 Improving MyUOG App
+- 🚀 Improving MyUOG & MY VU
 - 🤖 Building AI chatbot
 - 📱 React Native UI projects
