@@ -24,21 +24,15 @@
 
 ---
 
-## 📲 MyUOG App
+## 📲 MyUOG | MyVU Study
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/kHoib5_J9n3STH9oPsD-nOnSQQvYLB_FdCVUEMKWgvcLxoQJQY1FD_axgRxZJ3zm_yAtWKc_u2DUlmuvINRdvA=w480-h960-rw" width="220"/>
-</p>
-
-[![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
-
-## 📲 My VU Study
-
-<p align="center">
   <img src="https://play-lh.googleusercontent.com/oZO2SIXv8rrG12O97x3QlqWeGqval2yf8uhKSJ6Z1IQzNJ47jmdB7SshhYVqR6oCMFh-XNUe9rVjS8bUId8=w480-h960-rw" width="220"/>
 </p>
 
-[![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myvustudy)
+[![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
+[![Download App](https://img.shields.io/badge/Download-MyVUSTUDY-pink?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myvustudy)
 
 ---
 
