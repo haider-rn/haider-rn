@@ -6,7 +6,11 @@
 
 ## 💫 About Me
 
-- 📱 React Native Developer- 🧪 QA Automation (Appium + Jest)- 🎓 BS IT — University of Gujrat- 🚀 Creator of UOG & VU STUDY App- 🌍 Based in Pakistan
+- 📱 React Native Developer
+- 🧪 QA Automation (Appium + Jest)
+- 🎓 BS IT — University of Gujrat
+- 🚀 Creator of UOG & VU STUDY App
+- 🌍 Based in Pakistan
 
 ---
 
