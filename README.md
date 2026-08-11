@@ -42,7 +42,9 @@
 
 ## 🔥 Currently Working On
 
-- 🚀 Improving MyUOG & MY VU- 🤖 Building AI chatbot- 📱 React Native UI projects
+- 🚀 Improving MyUOG & MY VU
+- 🤖 Building AI chatbot
+- 📱 React Native UI projects
 
 ---
 <p align="center"> <i>Building useful apps, one release at a time. 🚀</i> </p>
